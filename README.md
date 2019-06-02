@@ -2,6 +2,8 @@
 
 Simple program to monitor your home internet access.
 
+![alt text](https://github.com/spinxsunyi/ping_logger/blob/master/screenshot_v1.jpeg)
+
 Run in your raspberryPi and monitor your home internet access. Ping to google.com or any host and record the time recording and ping result in database. Monitor result in Graph and table. Monitor page are auto load. If PING was failed or connection down, ping result will show -1.
 
 Code in pHP, database MySQL and chart with canvas.js
